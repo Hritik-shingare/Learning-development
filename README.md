@@ -7,6 +7,7 @@ Welcome to my repository where I will be documenting my journey in learning web 
 HTML and CSS: Basic web structure and styling.
 <br>
 JavaScript: Adding interactivity to web pages
+<br>
 Frameworks and Libraries: Exploring popular tools like React, Vue, and Angular.
 <br>
 - ** Backend Development**: Introduction to server-side programming with Node.js, Express, and databases.
