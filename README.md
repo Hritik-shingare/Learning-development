@@ -12,7 +12,7 @@ Frameworks and Libraries: Exploring popular tools like React, Vue, and Angular.
 <br>
 Backend Development: Introduction to server-side programming with Node.js, Express, and databases.
 - <br>
-Full Projects**: Complete web applications combining front-end and back-end technologies.
+Full Projects: Complete web applications combining front-end and back-end technologies.
 <br>
 
 ## Goals
