@@ -4,7 +4,7 @@ Welcome to my repository where I will be documenting my journey in learning web 
 
 ## Contents
 
-HTML and CSS: Basic web structure and styling.
+1. HTML and CSS: Basic web structure and styling.
 <br>
 JavaScript: Adding interactivity to web pages
 <br>
