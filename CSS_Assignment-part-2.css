@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+}
+
+
+#cssp-h1{
+    color: blue;
+}
+h1, h3, h5{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Paragraphs{
+    color: white;
+    background: cornflowerblue;
+
+}
+
+div button{
+    background: purple;
+    color: azure;
+
+}
+
+button:hover{
+    background:yellow;
+    color: blue;
+}
+
+p:nth-child(odd){
+    color: yellow;
+
+}
+h1::first-letter{
+    color: red;
+}
+input[type="checkbox"]:checked + label {
+    color: darkgreen;
+}
